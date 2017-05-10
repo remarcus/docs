@@ -2,7 +2,7 @@
 title: .NET Core Versioning
 description: .NET Core Versioning
 keywords: .NET, .NET Core
-author: beleroy
+author: bleroy
 ms.author: mairaw
 ms.date: 06/20/2016
 ms.topic: article
